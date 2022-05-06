@@ -1,0 +1,142 @@
+/*body {
+    display: block; width: 970px; background-color: burlywood; height: 1160px;
+}*/
+
+#wrapper {
+    width: 970px; 
+    background-color: 
+    rgb(255, 245, 231); 
+    margin: 0px auto; 
+    height: 1118px;
+}
+
+h1 {
+    display: inline-block; 
+    margin-left: 20px;
+}
+
+h3 {
+    display: inline-block; 
+    padding-left: 427px; 
+    font-weight: bold; 
+    font-size: 23px;
+}
+
+#purplebox {
+    display: block; 
+    width: 970px; 
+    background-color: 
+    rgb(23, 0, 39); 
+    height: 958px; 
+    margin-bottom: 80px;
+}
+    #photo {
+        width: 400px; 
+        height: 260px; 
+        border: 5px solid grey; 
+        margin: 20px 10px 20px 20px;
+    }
+    #aboutsection {
+        display: inline-block; 
+        width: 496px; 
+        height: 269px;
+        background-color: 
+        rgb(224, 224, 224); 
+        vertical-align: top; 
+        margin: 20px 20px 20px 10px; 
+    }
+
+    img {
+        border: 5px khaki;
+    }
+
+    #aboutsection h2 { 
+        color: white; 
+        padding: 8px; 
+        margin: 0; 
+        background-image: linear-gradient(rgb(163, 159, 159), slategrey);
+    }
+
+    #aboutsection p, #aboutsection a {
+        padding: 6px 10px 0px 10px;
+    }
+    .threecol {
+        display: inline-block; 
+        width: 294px; 
+        height: 616px; 
+        background-color: rgb(224, 224, 224); 
+        margin-left: 20px; 
+        vertical-align: top;
+    }
+
+    .threecol h2 {
+        background-image: linear-gradient(rgb(163, 159, 159), slategrey); 
+        color: white; 
+        padding: 8px; 
+        margin: 0;
+    }
+
+    .threecol img {
+        width: 294px; 
+        height: 160px;
+    }
+
+    .threecol p {
+        padding: 0 10px 0 10px;
+    }
+
+    #lamode p {
+        padding-bottom: 54px;
+    }
+
+    #fiveeleven p {
+        padding-bottom: 37px;
+    }
+    .threecol h4 {
+        background-image: linear-gradient(rgb(163, 159, 159), slategrey); 
+        color: white; 
+        padding: 8px; 
+        margin: 0; 
+    }
+
+    .threecol div img {
+        width: 45px; 
+        height: 45px;
+        padding: 4px;
+    }
+
+    .threecol button {
+        background-color: green;
+        color: white;
+        border-radius: 10px;
+        box-shadow: 2px 2px rgb(71, 70, 70);
+    }
+
+    #lamode button {
+        margin-left: 108px;
+    }
+
+    #familycontacts button {
+        margin-left: 90px;
+    }
+
+    #fiveeleven button {
+        margin-left: 100px;
+    }
+
+    #footer {
+        text-align: center;
+        margin-top: 40px;
+    }
+
+    #footer img {
+        width: 25px; height: 25px; display: inline-block;
+    }
+
+    #email {
+        display: block;
+    }
+
+    #footer img, a {
+        vertical-align: middle;
+    }
